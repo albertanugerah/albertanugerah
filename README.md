@@ -1,6 +1,6 @@
 # Hi everyone ! 👋
 My name is **Albert Anugerah Putra Siregar**.  
-I’m a Backend Developer since August, 2021 at [MII](https://www.mii.co.id/).
+I’m a Backend Developer since August, 2021 at [MII](https://www.mii.co.id/).  
 I'm responsible for creating and maintaining technology at the back end of a website (the server, database and application).
 
 <!--
