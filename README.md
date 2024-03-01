@@ -1,9 +1,8 @@
 # Hi everyone ! 👋
 My name is **Albert Anugerah Putra Siregar**.  
-I’m a Backend Developer since August, 2021 at [MII](https://www.mii.co.id/).  
-I'm responsible for creating and maintaining technology at the back end of a website (the server, database and application).  
-I've enjoyed PHP, JavaScript and make it the main language in creating a project.
-- 🔭 I’m currently working at [MII](https://www.mii.co.id/).  
+I’m a Fullstack Engineer since August, 2022 at [Kredivo Group](https://kredivocorp.com).  
+I'm responsible for creating and maintaining web-based apps for Internal Tool Team (Finance).  
+I've enjoyed JavaScript, Typescript and make it the main language in creating a project.  
 - 🌱 I’m currently learning about cloud technology for backed-apps. Golang, Java, and nodeJS
 - 💬 feel free to ask me about web development
 
