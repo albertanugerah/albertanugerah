@@ -1,7 +1,7 @@
 # Hi everyone ! 👋
 My name is **Albert Anugerah Putra Siregar**.  
-I’m a Fullstack Engineer since August, 2022 at [Kredivo Group](https://kredivocorp.com).  
-I'm responsible for creating and maintaining web-based apps for Internal Tool Team (Finance).  
+- I’m a Fullstack Engineer since August, 2022 at [Kredivo Group](https://kredivocorp.com).  
+- I'm responsible for creating and maintaining web-based apps for Internal Tool Team (Finance).  
 I've enjoyed JavaScript, Typescript and make it the main language in creating a project.  
 - 🌱 I’m currently learning about cloud technology for backed-apps. Golang, Java, and nodeJS
 - 💬 feel free to ask me about web development
